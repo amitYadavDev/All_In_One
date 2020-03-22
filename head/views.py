@@ -7,8 +7,6 @@ def home(request):
 
 
 
-#login page
-def login(request):
-    return render(request, 'login.html')
+
 
 # Create your views here.
